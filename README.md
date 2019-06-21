@@ -25,6 +25,7 @@
  * /bin/check-es-query-count.rb
  * /bin/check-es-query-exists.rb
  * /bin/check-es-query-ratio.rb
+ * /bin/check-es-query-ratio-mixed.rb
  * /bin/check-es-shard-allocation-status.rb
  * /bin/handler-es-delete-indices.rb
  * /bin/metrics-es-cluster.rb
